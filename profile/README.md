@@ -135,7 +135,7 @@ npm start
 ### 팀 연락처
 - **정 웅**: team-leader@university.ac.kr
 - **김소룡**: 2071328@hansung.ac.kr
-- **김소룡**: tech-lead@university.ac.kr
+- **임차민**: ckals413@naver.com
 - **김소룡**: tech-lead@university.ac.kr
 - **김소룡**: tech-lead@university.ac.kr
 - **유상미**: professor@university.ac.kr
