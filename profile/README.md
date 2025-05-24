@@ -133,11 +133,11 @@ npm start
 ## 📞 지원 및 문의
 
 ### 팀 연락처
-- **정 웅**: team-leader@university.ac.kr
+- **정 웅**: kaka366@naver.com
 - **김소룡**: 2071328@hansung.ac.kr
 - **임차민**: ckals413@naver.com
 - **안예찬**: yes490411@gmail.com
-- **김소룡**: tech-lead@university.ac.kr
+- **김문권**: ok63477@gmail.com
 - **유상미**: professor@university.ac.kr
 
 ### 문서 및 리소스
