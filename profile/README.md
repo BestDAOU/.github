@@ -23,7 +23,7 @@ ForU(너를 위해) 는 기업의 영업팀과 마케팅팀을 위한 차세대 
 ## 🎬 시연 영상
 
 ### 📱 제품 데모
-[![ForU 시연 영상](https://img.youtube.com/vi/07zpJxMxpYQ/0.jpg)](https://youtu.be/07zpJxMxpYQ)
+[![ForU 시연 영상](https://img.youtube.com/vi/07zpJxMxpYQ/0.jpg)](https://youtu.be/e0_yZCZvwcs)
 
 
 > **2분만에 보는 ForU 핵심 기능**  
