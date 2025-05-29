@@ -23,8 +23,6 @@ ForU(너를 위해) 는 기업의 영업팀과 마케팅팀을 위한 차세대 
 ## 🎬 시연 영상
 
 ### 📱 제품 데모
-[![ForU 시연 영상]([영상링크](https://youtu.be/07zpJxMxpYQ))
-### 📱 제품 데모
 [![ForU 시연 영상](https://img.youtube.com/vi/07zpJxMxpYQ/0.jpg)](https://youtu.be/07zpJxMxpYQ)
 
 
@@ -132,16 +130,6 @@ npm start
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:8080
 - API 문서: http://localhost:8080/swagger-ui.html
-
-## 📞 지원 및 문의
-
-### 팀 연락처
-- **정 웅**: (팀장) kaka366@naver.com
-- **김소룡**: 2071328@hansung.ac.kr
-- **임차민**: ckals413@naver.com
-- **안예찬**: yes490411@gmail.com
-- **김문권**: ok63477@gmail.com
-- **유상미**: (지도교수) professor@university.ac.kr
 
 ## 📞 지원 및 문의
 
