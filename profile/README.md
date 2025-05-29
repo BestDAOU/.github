@@ -24,6 +24,9 @@ ForU(너를 위해) 는 기업의 영업팀과 마케팅팀을 위한 차세대 
 
 ### 📱 제품 데모
 [![ForU 시연 영상]([영상링크](https://youtu.be/07zpJxMxpYQ))
+### 📱 제품 데모
+[![ForU 시연 영상](https://img.youtube.com/vi/07zpJxMxpYQ/0.jpg)](https://youtu.be/07zpJxMxpYQ)
+
 
 > **2분만에 보는 ForU 핵심 기능**  
 > AI 개인화 메시지 생성부터 개인 맞춤화 발송까지 전체 워크플로우를 확인하세요.
@@ -139,6 +142,17 @@ npm start
 - **안예찬**: yes490411@gmail.com
 - **김문권**: ok63477@gmail.com
 - **유상미**: (지도교수) professor@university.ac.kr
+
+## 📞 지원 및 문의
+
+### 팀 연락처
+- **정 웅** (팀장): [kaka366@naver.com](mailto:kaka366@naver.com)
+- **김소룡**: [2071328@hansung.ac.kr](mailto:2071328@hansung.ac.kr)
+- **임차민**: [ckals413@naver.com](mailto:ckals413@naver.com)
+- **안예찬**: [yes490411@gmail.com](mailto:yes490411@gmail.com)
+- **김문권**: [ok63477@gmail.com](mailto:ok63477@gmail.com)
+- **유상미** (지도교수): [professor@university.ac.kr](mailto:professor@university.ac.kr)
+
 
 ### 문서 및 리소스
 - [API 문서](http://localhost:8080/swagger-ui.html)
